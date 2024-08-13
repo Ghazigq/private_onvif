@@ -1,0 +1,3 @@
+[submodule "components/sdk"]
+	path = components/sdk
+	url = git@github.com:Ghazigq/sdk.git
